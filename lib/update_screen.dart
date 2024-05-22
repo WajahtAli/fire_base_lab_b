@@ -40,7 +40,7 @@ class UpdateScreen extends StatelessWidget {
               ),
             ),
           ),
-          const SizedBox(
+          const SizedBox(  
             height: 20,
           ),
           ElevatedButton(
